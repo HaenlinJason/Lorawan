@@ -1,0 +1,15 @@
+{
+  "name": "nodelora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodejsLora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.9.2",
+    "mysql": "^2.13.0"
+  }
+}
