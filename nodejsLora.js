@@ -19,7 +19,7 @@ var options = {
 	clientId: 'MyMQTT',
 	port: 1883,
 	username: 'payload',
-	password: '0e120b45598d48e6a496ffdb57509cb7',
+	password: '********************************', //put your API KEY right here
 	qos: 1,	
 	keepalive : 30,
 	clean: false,
